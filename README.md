@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45](https://readme-typing-svg.herokuapp.com?color=289AF7&lines=Welcome+to+my+Github+profile;My+name+in+art+let+me+introduce+myself"></a>
 </p>
 
-<img align="left" src="https://i.imgur.com/rFW904c.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://i.imgur.com/rFW904c.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" style="margin-right: 10px" />
 <hr>
 
 ```
@@ -17,11 +17,12 @@
 🔭 Junior web developer
 🌱 Leaning about data Science and web developer
 🚩 Interested in full stack developer
-🎵 Lovely Clasic Metal, Lo-fi, 70s-90s song, soft music
+🎵 Lovely Classic Metal, Lo-fi, 70s-90s song, soft music
 -------------------------
 
 ```
 <hr>
+
 
 
 
