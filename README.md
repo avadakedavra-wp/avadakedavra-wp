@@ -7,7 +7,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/avadakedavra-wp/github-readme-stats"> 
   </a>
  </p>
