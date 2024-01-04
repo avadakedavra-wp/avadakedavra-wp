@@ -22,19 +22,6 @@
 ```
 <hr>
 
-#### 📈 Stats
- <br/>
- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avadakedavra-wp&show_icons=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avadakedavra-wp&theme=algolia" />
- </p>
- <p align="center">
-  <img width="48%" src="https://leetcard.jacoblin.cool/arthernorth?border=0&radius=20&theme=nord" />
- </p>
-
-
-<hr>
-
 
 
 
