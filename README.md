@@ -11,17 +11,16 @@
 <img align="left" src="https://i.pinimg.com/736x/9b/3c/a9/9b3ca966d3d35f9b007cfaf9c648bc45.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" />
 <hr>
 
-```
-- 🔭 I’m currently working on [P-DICTOR](https://www.p-dictor.com/)
+🔭 I’m currently working on <a href="https://www.p-dictor.com/" target="_blank" rel="noreferrer"> P-DICTOR </a>
 
-- 🌱 I’m currently learning **AI and machine learning**
+🌱 I’m currently learning AI and machine learning<br>
 
-- 💻 bachelor's degree in Computer Science at Kasetsart university
+💻 bachelor's degree in Computer Science at Kasetsart university <br>
 
-- 🎵 Lovely Classic Metal, Lo-fi, 70s-90s song, soft music
+🎵 Lovely Classic Metal, Lo-fi, 70s-90s song, soft music<br>
 
-- 💖 Anime Lover and Marvel Big fans  
-```
+💖 Anime Lover and Marvel Big fans  <br>
+
 <hr>
 
 ### Programming Languages
