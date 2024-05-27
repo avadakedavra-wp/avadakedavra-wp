@@ -49,21 +49,10 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
 </p>
 
-### Embedded Systems and IoT
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
-</p>
-
 ### MVC
 <p align="left">
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="Express.js" width="40" height="40"/> </a>
-</p>
-
-### DevOps and Deployment
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> </a>
 </p>
 
 ### Version Control
@@ -85,8 +74,8 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a>
 </p>
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avadakedavra-wp" alt="avadakedavra-wp" /></a> </p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20avadakedavra-wp&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 
 
 
