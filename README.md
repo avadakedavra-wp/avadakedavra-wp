@@ -8,7 +8,6 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-<img align="left" src="https://i.pinimg.com/736x/9b/3c/a9/9b3ca966d3d35f9b007cfaf9c648bc45.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" />
 <hr>
 
 🔭 I’m currently working on <a href="https://www.p-dictor.com/" target="_blank" rel="noreferrer"> P-DICTOR </a>
