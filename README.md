@@ -10,7 +10,7 @@
 
 <hr>
 
-🌱 I’m currently interest ni role AI engineer<br>
+🌱 I’m currently interest in role AI engineer<br>
 
 💻 bachelor's degree in Computer Science at Kasetsart university <br>
 
